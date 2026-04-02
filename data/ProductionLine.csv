@@ -1,0 +1,7 @@
+LineID,PlantID,LineName,LineType
+1,1,Line A,Assembly
+2,1,Line B,Packaging
+3,2,Line C,Assembly
+4,2,Line D,Casting
+5,3,Line E,Finishing
+6,3,Line F,Packaging
