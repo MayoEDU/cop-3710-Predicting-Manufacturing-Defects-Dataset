@@ -1,0 +1,5 @@
+DefectTypeID,TypeName,Description
+1,Minor Defect,Low severity manufacturing defect
+2,Moderate Defect,Medium severity manufacturing defect
+3,Major Defect,High severity manufacturing defect
+4,Critical Defect,Critical severity manufacturing defect
